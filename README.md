@@ -16,4 +16,6 @@ This project transforms a provided Figma design into a fully functional mobile a
 4- Design Integration
 
 **Resources:**
-Figma Design: 
+
+
+Figma Design:  https://www.figma.com/design/E7UQdxH6PhAn57sQdiMG9S/Mobile-app-UI-Template--Community-?node-id=0-1&t=7ITfpNAI6a8j7ojh-0
